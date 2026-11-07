@@ -1,0 +1,9 @@
+mlruns/
+mlflow.db
+model.pkl
+champion.pkl
+metrics.json
+__pycache__/
+
+/houses.csv
+/used_cars.csv
