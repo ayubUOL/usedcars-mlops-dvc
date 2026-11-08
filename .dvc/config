@@ -2,5 +2,4 @@
     remote = storage
 ['remote "storage"']
     url = s3://usedcars-mlops-dvc-2026/dvc
-    profile = dvc
     region = us-east-1
